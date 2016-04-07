@@ -32,7 +32,7 @@ public class MainActivity extends Activity {
     private static final String TAG = "Talk";
     AudioGroup m_AudioGroup;
     AudioStream m_AudioStream;
-
+//
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
