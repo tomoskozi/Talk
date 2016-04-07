@@ -23,8 +23,15 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:ems="10"
-        android:hint="@string/iPHint"
-        android:inputType="phone" />
+        android:hint="@string/localHint" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="@string/iPHint" />
 
     <EditText
         android:id="@+id/editText1"
@@ -32,8 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:ems="10"
-        android:hint="@string/portHint"
-        android:inputType="number" >
+        android:hint="@string/portHint" >
 
         <requestFocus />
     </EditText>

@@ -5,4 +5,5 @@
     <string name="Disconnect">Disconnect</string>
     <string name="portHint">Port</string>
     <string name="iPHint">IP</string>
+    <string name="localHint">Local IP</string>
 </resources>
