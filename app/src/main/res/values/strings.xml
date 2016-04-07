@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Talk</string>
+    <string name="localPort">Local Port</string>
+    <string name="connect">Connect</string>
+    <string name="Disconnect">Disconnect</string>
+    <string name="portHint">Port</string>
+    <string name="iPHint">IP</string>
+</resources>
